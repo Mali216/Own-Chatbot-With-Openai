@@ -27,7 +27,7 @@ if input is not None:
       })
       headers = {
         'Content-Type': 'application/json',
-        'Authorization': 'Bearer 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',
+        'Authorization': 'Bearer OPENAI_API_KEY_BURAYA_YAZILMALI',
         'Cookie': '__cf_bm=tplJk6QQNE76bI1x5UuzQ1Guf0_h.PDN3pHCUBh8i3Q-1720419060-1.0.1.1-D0XP8Mmih9_K8HbhtMTYc1RhtfBXiyJ.xI5p30MTUIHO0YJXjVhz3iC_kYEZmaxBihuRkVQnFLgkENxwZI0bvg; _cfuvid=drGaERzeppvUCxrCUYzn5RH8Rc2ZohX7bEYJnkP8AuI-1720419060763-0.0.1.1-604800000'
       }
       
